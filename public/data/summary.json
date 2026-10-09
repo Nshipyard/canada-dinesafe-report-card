@@ -1,0 +1,22 @@
+{
+  "project": "canada-dinesafe-report-card",
+  "source": "City of Toronto Open Data: DineSafe",
+  "source_url": "https://open.toronto.ca/dataset/dinesafe/",
+  "licence": "Open Government Licence - Toronto",
+  "retrieved": "2026-10-09",
+  "data_window": {
+    "start": "2025-10-07",
+    "end": "2026-10-07"
+  },
+  "raw_rows": 120879,
+  "inspections_window": 32421,
+  "citywide": {
+    "inspections": 32421,
+    "conditional_rate": 6.7,
+    "crucial_rate": 3.2,
+    "closed_rate": 0.2
+  },
+  "min_locations": 10,
+  "chains_ranked": 84,
+  "note": "Franchised vs corporate-owned locations are not distinguished in the source data."
+}

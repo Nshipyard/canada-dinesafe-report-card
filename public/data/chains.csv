@@ -1,0 +1,85 @@
+chain_id,chain_name,locations,inspections,inspections_per_location,conditional_pass_rate_pct,conditional_pass_count,crucial_infractions_rate_pct,crucial_inspections,significant_rate_pct,closed_rate_pct,closed_count,locations_with_conditional_pct,locations_with_crucial_pct
+BB Q CHICKEN,bb.q Chicken,10,31,3.1,19.4,6,9.7,3,38.7,0.0,0,40.0,20.0
+MONKEY SUSHI,Monkey Sushi,12,43,3.58,18.6,8,11.6,5,27.9,0.0,0,50.0,33.3
+241 PIZZA,241 Pizza,10,20,2.0,15.0,3,5.0,1,25.0,0.0,0,20.0,10.0
+KUNG FU TEA,Kung Fu Tea,15,27,1.8,14.8,4,11.1,3,33.3,0.0,0,20.0,13.3
+EGGSMART,Eggsmart,17,36,2.12,13.9,5,13.9,5,22.2,0.0,0,17.6,17.6
+WILD WING,Wild Wing,12,29,2.42,13.8,4,6.9,2,48.3,0.0,0,25.0,16.7
+GINO S PIZZA,Gino's Pizza,11,22,2.0,13.6,3,0.0,0,18.2,0.0,0,27.3,0.0
+ALI BABA S,Ali Baba's,11,31,2.82,12.9,4,3.2,1,29.0,0.0,0,36.4,9.1
+GATEWAY NEWSTAND,Gateway Newstands,11,17,1.55,11.8,2,5.9,1,11.8,0.0,0,18.2,9.1
+SHAWARMA ROYALE,Shawarma Royale,10,26,2.6,11.5,3,7.7,2,19.2,0.0,0,20.0,10.0
+GONG CHA,Gong Cha,13,18,1.38,11.1,2,0.0,0,16.7,0.0,0,15.4,0.0
+PIZZAIOLO,Pizzaiolo,37,84,2.27,10.7,9,1.2,1,22.6,0.0,0,21.6,2.7
+BLONDIES PIZZA,Blondies Pizza,10,19,1.9,10.5,2,5.3,1,26.3,0.0,0,20.0,10.0
+BURRITO BOYZ,Burrito Boyz,17,39,2.29,10.3,4,7.7,3,20.5,0.0,0,23.5,17.6
+SUNSET GRILL,Sunset Grill,15,31,2.07,9.7,3,3.2,1,19.4,0.0,0,20.0,6.7
+TACO BELL,Taco Bell,10,21,2.1,9.5,2,0.0,0,9.5,0.0,0,10.0,0.0
+KIBO SUSHI,Kibo Sushi,19,55,2.89,9.1,5,3.6,2,14.5,0.0,0,26.3,10.5
+PITA LITE,Pita Lite,12,26,2.17,7.7,2,7.7,2,19.2,0.0,0,8.3,8.3
+PUMPERNICKEL S,Pumpernickel's,12,27,2.25,7.4,2,3.7,1,18.5,0.0,0,16.7,8.3
+SECOND CUP,Second Cup,36,68,1.89,7.4,5,4.4,3,14.7,0.0,0,13.9,8.3
+PIZZA PIZZA,Pizza Pizza,89,180,2.02,7.2,13,4.4,8,14.4,0.6,1,10.1,9.0
+GABBY S,Gabby's,12,28,2.33,7.1,2,0.0,0,25.0,0.0,0,16.7,0.0
+PIZZAVILLE,Pizzaville,17,28,1.65,7.1,2,3.6,1,10.7,0.0,0,11.8,5.9
+BARBURRITO,BarBurrito,24,46,1.92,6.5,3,0.0,0,17.4,0.0,0,12.5,0.0
+CHURCH S TEXAS CHICKEN,Church's Texas Chicken,12,31,2.58,6.5,2,3.2,1,29.0,0.0,0,16.7,8.3
+FOOD BASICS,Food Basics,15,31,2.07,6.5,2,0.0,0,9.7,0.0,0,13.3,0.0
+PAPA JOHN S,Papa John's,11,17,1.55,5.9,1,0.0,0,35.3,0.0,0,9.1,0.0
+CAFE LANDWER,Cafe Landwer,10,18,1.8,5.6,1,5.6,1,33.3,0.0,0,10.0,10.0
+DARK HORSE ESPRESSO BAR,Dark Horse Espresso Bar,13,18,1.38,5.6,1,0.0,0,5.6,0.0,0,7.7,0.0
+HASTY MARKET,Hasty Market,13,18,1.38,5.6,1,0.0,0,22.2,0.0,0,7.7,0.0
+POPEYES,Popeyes,69,147,2.13,5.4,8,2.7,4,12.9,0.0,0,10.1,5.8
+PITA LAND,Pita Land,18,38,2.11,5.3,2,2.6,1,23.7,0.0,0,11.1,5.6
+AROMA ESPRESSO BAR,Aroma Espresso Bar,20,41,2.05,4.9,2,2.4,1,12.2,0.0,0,10.0,5.0
+COCO,CoCo (standalone),15,21,1.4,4.8,1,0.0,0,14.3,0.0,0,6.7,0.0
+FAT BASTARD BURRITO,Fat Bastard Burrito,22,42,1.91,4.8,2,0.0,0,16.7,0.0,0,9.1,0.0
+ST LOUIS BAR AND GRILL,St. Louis Bar and Grill,11,22,2.0,4.5,1,4.5,1,36.4,0.0,0,9.1,9.1
+OSMOW S,Osmow's,32,68,2.12,4.4,3,1.5,1,5.9,0.0,0,9.4,3.1
+ROLLTATION,Rolltation,11,24,2.18,4.2,1,4.2,1,4.2,0.0,0,9.1,9.1
+SWISS CHALET,Swiss Chalet,22,48,2.18,4.2,2,2.1,1,16.7,0.0,0,9.1,4.5
+A AND W,A&W,55,122,2.22,4.1,5,1.6,2,11.5,0.0,0,9.1,3.6
+KIDS AND,Kids and Company,11,25,2.27,4.0,1,0.0,0,4.0,0.0,0,9.1,0.0
+TAHINI S,Tahini's,12,25,2.08,4.0,1,4.0,1,8.0,0.0,0,8.3,8.3
+SHOPPERS DRUG MART,Shoppers Drug Mart,42,51,1.21,3.9,2,2.0,1,5.9,0.0,0,4.8,2.4
+MR GREEK,Mr. Greek,12,26,2.17,3.8,1,3.8,1,19.2,0.0,0,8.3,8.3
+SEVEN ELEVEN,7-Eleven,16,30,1.88,3.3,1,3.3,1,6.7,0.0,0,6.2,6.2
+METRO,Metro,33,61,1.85,3.3,2,0.0,0,24.6,0.0,0,6.1,0.0
+RABBA FINE FOODS,Rabba Fine Foods,13,30,2.31,3.3,1,0.0,0,13.3,0.0,0,7.7,0.0
+LOBLAWS,Loblaws,18,32,1.78,3.1,1,3.1,1,31.2,0.0,0,5.6,5.6
+PIZZA HUT,Pizza Hut,40,65,1.62,3.1,2,1.5,1,9.2,0.0,0,5.0,2.5
+MR SUB,Mr. Sub,18,34,1.89,2.9,1,2.9,1,5.9,0.0,0,5.6,5.6
+MCDONALD S,McDonald's,74,148,2.0,2.7,4,0.0,0,10.1,0.0,0,5.4,0.0
+BASKIN ROBBINS,Baskin Robbins,26,39,1.5,2.6,1,2.6,1,7.7,0.0,0,3.8,3.8
+SUBWAY,Subway,180,313,1.74,2.6,8,1.6,5,6.1,0.0,0,3.9,2.8
+CHATIME,Chatime,23,40,1.74,2.5,1,0.0,0,17.5,0.0,0,4.3,0.0
+JIMMY THE GREEK,Jimmy the Greek,19,43,2.26,2.3,1,2.3,1,11.6,0.0,0,5.3,5.3
+TIM HORTONS,Tim Hortons,351,604,1.72,2.0,12,1.0,6,8.3,0.0,0,3.1,1.4
+WENDY S,Wendy's,29,53,1.83,1.9,1,1.9,1,11.3,0.0,0,3.4,3.4
+REAL FRUIT BUBBLE TEA,Real Fruit Bubble Tea,33,55,1.67,1.8,1,0.0,0,9.1,0.0,0,3.0,0.0
+DOMINO S,Domino's,49,82,1.67,1.2,1,0.0,0,7.3,0.0,0,2.0,0.0
+STARBUCKS,Starbucks,115,183,1.59,0.5,1,0.0,0,7.7,0.0,0,0.9,0.0
+BENTO SUSHI,Bento Sushi,34,59,1.74,0.0,0,0.0,0,1.7,0.0,0,0.0,0.0
+BOOSTER JUICE,Booster Juice,50,84,1.68,0.0,0,0.0,0,2.4,0.0,0,0.0,0.0
+BULK BARN,Bulk Barn,11,16,1.45,0.0,0,0.0,0,0.0,0.0,0,0.0,0.0
+BURGER KING,Burger King,29,51,1.76,0.0,0,0.0,0,5.9,0.0,0,0.0,0.0
+CHIPOTLE MEXICAN GRILL,Chipotle Mexican Grill,17,32,1.88,0.0,0,0.0,0,3.1,0.0,0,0.0,0.0
+CIRCLE K,Circle K,36,48,1.33,0.0,0,0.0,0,8.3,0.0,0,0.0,0.0
+COCO FRESH TEA AND JUICE,CoCo Fresh Tea and Juice,18,27,1.5,0.0,0,0.0,0,3.7,0.0,0,0.0,0.0
+DAIRY QUEEN,Dairy Queen,14,21,1.5,0.0,0,0.0,0,9.5,0.0,0,0.0,0.0
+DOLLARAMA,Dollarama,33,36,1.09,0.0,0,2.8,1,2.8,2.8,1,0.0,3.0
+ESSO,Esso,10,11,1.1,0.0,0,0.0,0,0.0,0.0,0,0.0,0.0
+FIREHOUSE SUBS,Firehouse Subs,13,24,1.85,0.0,0,0.0,0,4.2,0.0,0,0.0,0.0
+FRESHCO,FreshCo,10,15,1.5,0.0,0,0.0,0,13.3,0.0,0,0.0,0.0
+FRESHII,Freshii,24,42,1.75,0.0,0,0.0,0,19.0,0.0,0,0.0,0.0
+HARVEY S,Harvey's,22,39,1.77,0.0,0,0.0,0,7.7,0.0,0,0.0,0.0
+INS MARKET,INS Market,23,25,1.09,0.0,0,0.0,0,4.0,0.0,0,0.0,0.0
+KFC,KFC,29,47,1.62,0.0,0,0.0,0,2.1,0.0,0,0.0,0.0
+KINTON RAMEN,Kinton Ramen,12,23,1.92,0.0,0,0.0,0,0.0,0.0,0,0.0,0.0
+LITTLE CAESARS,Little Caesars,11,19,1.73,0.0,0,0.0,0,10.5,0.0,0,0.0,0.0
+NO FRILLS,No Frills,10,15,1.5,0.0,0,0.0,0,6.7,0.0,0,0.0,0.0
+PETRO CANADA,Petro-Canada,14,17,1.21,0.0,0,0.0,0,0.0,0.0,0,0.0,0.0
+PI CO,Pi Co.,12,20,1.67,0.0,0,0.0,0,35.0,0.0,0,0.0,0.0
+PIZZA NOVA,Pizza Nova,50,84,1.68,0.0,0,0.0,0,2.4,0.0,0,0.0,0.0
+SHELL,Shell,21,27,1.29,0.0,0,0.0,0,7.4,0.0,0,0.0,0.0
+THE BURGER S PRIEST,The Burger's Priest,11,23,2.09,0.0,0,0.0,0,8.7,0.0,0,0.0,0.0

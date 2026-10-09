@@ -1,0 +1,537 @@
+{
+  "241 PIZZA": {
+    "241 PIZZA": 15,
+    "241 Pizza": 5
+  },
+  "SEVEN ELEVEN": {
+    "7-ELEVEN": 29,
+    "7-Eleven": 1
+  },
+  "A AND W": {
+    "A & W": 85,
+    "A & W 4458": 1,
+    "A & W EXPRESS/COUNTRY STYLE": 1,
+    "A & W RESTAURANT": 5,
+    "A and W": 2,
+    "A&W": 24,
+    "A&W RESTAURANT": 4
+  },
+  "ALI BABA S": {
+    "ALI BABA 'S": 5,
+    "ALI BABA'S": 17,
+    "ALI BABA'S MIDDLE EASTERN CUISINE": 8,
+    "Ali Baba's Restaurant": 1
+  },
+  "AROMA ESPRESSO BAR": {
+    "AROMA ESPRESSO BAR": 38,
+    "AROMA ESPRESSO BAR - LEASIDE VILLAGE": 3
+  },
+  "BARBURRITO": {
+    "BAR BURRITO": 12,
+    "BARBURRITO": 29,
+    "BARBURRITO FRESH MEXICAN GRILL": 3,
+    "Barburrito North York": 1,
+    "BARBURRITO MEXICAN GRILL": 1
+  },
+  "BASKIN ROBBINS": {
+    "BASKIN ROBBINS": 26,
+    "BASKIN-ROBBINS": 6,
+    "Baskin Robbins": 6,
+    "BASKIN ROBBINS ICE CREAM": 1
+  },
+  "BB Q CHICKEN": {
+    "BB.Q CHICKEN": 15,
+    "BB.Q CHICKEN & PUB": 3,
+    "BB.Q CHICKEN AND PUB": 4,
+    "BB.Q CHICKEN LEMON": 2,
+    "BB.Q CHICKEN YONGE&BLOOR": 7
+  },
+  "BENTO SUSHI": {
+    "BENTO SUSHI": 49,
+    "BENTO SUSHI (LONGO'S)": 2,
+    "Bento Sushi": 8
+  },
+  "BURRITO BOYZ": {
+    "BURRITO BOYZ": 37,
+    "Burrito Boyz": 2
+  },
+  "BLONDIES PIZZA": {
+    "BLONDIES PIZZA": 13,
+    "Blondies Pizza": 2,
+    "Blondies Pizza Uptown": 3,
+    "BLONDIES PIZZA - JUNCTION": 1
+  },
+  "BOOSTER JUICE": {
+    "BOOSTER JUICE": 75,
+    "BOOSTER JUICE (FOOD EMPORIUM)": 2,
+    "Booster Juice": 6,
+    "BOOSTER JUICE - HAWK'S NEST - C BUILDING": 1
+  },
+  "BULK BARN": {
+    "BULK BARN": 11,
+    "BULK BARN FOODS LTD": 1,
+    "Bulk Barn": 4
+  },
+  "BURGER KING": {
+    "BURGER KING": 46,
+    "BURGER KING HOME OF THE WHOPPER": 2,
+    "BURGER KING RESTAURANTS OF CANADA INC.": 1,
+    "Burger King": 2
+  },
+  "CAFE LANDWER": {
+    "CAFE LANDWER": 16,
+    "Cafe Landwer": 2
+  },
+  "CHATIME": {
+    "CHATIME": 29,
+    "CHATIME (Inside Asia Food Mart)": 1,
+    "CHATIME BLOOR": 3,
+    "CHATIME CLIFFCREST": 1,
+    "CHATIME DON MILLS": 3,
+    "CHATIME LIBERTY VILLAGE": 1,
+    "Chatime": 2
+  },
+  "CHIPOTLE MEXICAN GRILL": {
+    "CHIPOTLE MEXICAN GRILL": 25,
+    "Chipotle Mexican Grill": 5,
+    "Chipotle Mexican grill": 2
+  },
+  "CHURCH S TEXAS CHICKEN": {
+    "CHURCH'S TEXAS CHICKEN": 28,
+    "Church's Texas Chicken": 3
+  },
+  "CIRCLE K": {
+    "CIRCLE K": 41,
+    "CIRCLE K #52561": 1,
+    "CIRCLE K - ESSO (Lawrence & Kennedy)": 2,
+    "CIRCLE K CONVENIENT/TIM HORTONS": 1,
+    "CIRCLE-K ESSO": 1,
+    "Circle K.": 1,
+    "Circle K": 1
+  },
+  "COCO": {
+    "COCO": 9,
+    "COCO BUBBLE TEA": 1,
+    "COCO CAFE": 2,
+    "COCO ESPRESSO BAR": 1,
+    "COCO FRESH JUICE & TEA": 2,
+    "COCO KARAOKE": 1,
+    "COCO MARKET": 4,
+    "Coco in the 6 2": 1
+  },
+  "COCO FRESH TEA AND JUICE": {
+    "COCO FRESH TEA AND JUICE": 7,
+    "COCO FRESH TEA & JUICE": 17,
+    "COCO FRESH TEA& JUICE": 1,
+    "Coco Fresh Tea & Juice": 1,
+    "COCO FRESH TEA&JUICE": 1
+  },
+  "DAIRY QUEEN": {
+    "DAIRY QUEEN": 20,
+    "Dairy Queen": 1
+  },
+  "DARK HORSE ESPRESSO BAR": {
+    "DARK HORSE ESPRESSO BAR": 14,
+    "DARK HORSE ESPRESSO BAR + DEAR GRAIN": 1,
+    "Dark Horse Espresso Bar": 3
+  },
+  "DOLLARAMA": {
+    "DOLLARAMA": 30,
+    "DOLLARAMA #855": 1,
+    "Dollarama": 5
+  },
+  "DOMINO S": {
+    "DOMINO'S": 15,
+    "DOMINO'S PIZZA": 59,
+    "Domino's": 2,
+    "Domino's Pizza": 6
+  },
+  "EGGSMART": {
+    "EGGSMART": 33,
+    "Eggsmart": 3
+  },
+  "ESSO": {
+    "ESSO": 5,
+    "ESSO CONVENIENCE": 3,
+    "ESSO CONVENIENCE STORE": 1,
+    "ESSO DUNDAS MART": 1,
+    "ESSO ON THE RUN": 1
+  },
+  "FAT BASTARD BURRITO": {
+    "FAT BASTARD BURRITO": 27,
+    "FAT BASTARD BURRITO CO": 4,
+    "FAT BASTARD BURRITO CO.": 9,
+    "Fat Bastard Burrito Co.": 1,
+    "Fat Bastard Burrito": 1
+  },
+  "FIREHOUSE SUBS": {
+    "FIREHOUSE SUBS": 24
+  },
+  "FOOD BASICS": {
+    "FOOD BASICS": 26,
+    "Food Basics": 4,
+    "FOOD BASICS #631": 1
+  },
+  "FRESHCO": {
+    "FRESHCO": 14,
+    "Freshco": 1
+  },
+  "FRESHII": {
+    "FRESHII": 42
+  },
+  "GABBY S": {
+    "GABBY'S": 14,
+    "GABBY'S BISTRO": 3,
+    "GABBY'S GRILL & TAPS": 2,
+    "GABBY'S GUILDWOOD": 2,
+    "GABBY'S RESTAURANT": 4,
+    "GABBY'S ROADHOUSE": 3
+  },
+  "GATEWAY NEWSTAND": {
+    "GATEWAY NEWSTAND": 7,
+    "GATEWAY NEWSTANDS": 8,
+    "Gateway  Newstand": 1,
+    "GATEWAY NEWSTAND #143": 1
+  },
+  "GINO S PIZZA": {
+    "GINO' S PIZZA/WING MACHINE": 2,
+    "GINO'S PIZZA": 10,
+    "GINO'S PIZZA AND WING MCHINE": 2,
+    "GINO'S PIZZA/WING MACHINE": 2,
+    "Gino's Pizza and Wing Machine": 1,
+    "GINO'S PIZZA AND WING MACHINE": 3,
+    "GINO'S PIZZA & WING MACHINE": 2
+  },
+  "GONG CHA": {
+    "GONG CHA": 15,
+    "GONG CHA ARIRANG HOTDOG": 1,
+    "GONG CHA DAVISVILLE": 1,
+    "Gong Cha": 1
+  },
+  "HARVEY S": {
+    "HARVEY'S": 33,
+    "HARVEY'S (#2250)": 1,
+    "HARVEY'S SWISS CHALET": 2,
+    "Harvey's": 2,
+    "HARVEY'S RESTAURANT #2206": 1
+  },
+  "HASTY MARKET": {
+    "HASTY MARKET": 12,
+    "HASTY MARKET /FLAMING STOVE": 4,
+    "Hasty Market": 1,
+    "Hasty Market Convenience": 1
+  },
+  "INS MARKET": {
+    "INS MARKET": 17,
+    "INS MARKET #5060": 1,
+    "INS MARKET #5073": 1,
+    "INS MARKET 5569": 1,
+    "INS MARKET 5608": 1,
+    "INS Market #5150": 1,
+    "Ins Market": 1,
+    "INS MARKET #5598": 1,
+    "INS MARKET 5623": 1
+  },
+  "JIMMY THE GREEK": {
+    "JIMMY  THE GREEK": 2,
+    "JIMMY THE GREEK": 40,
+    "Jimmy The Greek": 1
+  },
+  "KFC": {
+    "KFC": 45,
+    "KFC & TACO BELL": 1,
+    "KFC EXPRESS": 1
+  },
+  "KIBO SUSHI": {
+    "KIBO SUSHI": 20,
+    "KIBO SUSHI - HUMBER": 1,
+    "KIBO SUSHI - ROGERS CENTRE": 2,
+    "KIBO SUSHI HOUSE": 19,
+    "KIBO SUSHI IZAKAYA": 5,
+    "KIBO SUSHI YONGE": 2,
+    "KIBO SUSHI+MARKET": 3,
+    "KIBO SUSHI- VICTORIA PARK": 2,
+    "Kibo Sushi": 1
+  },
+  "KIDS AND": {
+    "KIDS & COMPANY": 11,
+    "KIDS & COMPANY LTD": 2,
+    "KIDS & COMPANY QUEEN WEST": 2,
+    "KIDS & COMPANY SCOTIA PLAZA": 2,
+    "KIDS AND COMPANY": 8
+  },
+  "KINTON RAMEN": {
+    "KINTON RAMEN": 21,
+    "KINTON RAMEN 1 RICHMOND ST W INC": 2
+  },
+  "KUNG FU TEA": {
+    "KUNG FU TEA": 26,
+    "Kung Fu Tea": 1
+  },
+  "LITTLE CAESARS": {
+    "LITTLE CAESARS": 12,
+    "LITTLE CAESARS PIZZA": 1,
+    "Little Caesars": 6
+  },
+  "LOBLAWS": {
+    "LOBLAWS": 25,
+    "LOBLAWS CITY MARKET": 2,
+    "LOBLAWS SUPERMARKET": 3,
+    "LOBLAWS SUPERSTORE (#2809)": 2
+  },
+  "MCDONALD S": {
+    "MCDONALD'S": 138,
+    "MCDONALD'S #14533(STC)": 2,
+    "MCDONALD'S RESTAURANTS": 2,
+    "McDonald's": 5,
+    "McDONALD'S": 1
+  },
+  "METRO": {
+    "METRO": 49,
+    "METRO #37": 2,
+    "METRO (STORE #442)": 1,
+    "METRO - BENTO NOUVEAU": 1,
+    "METRO DISTRIBUTION CENTRE": 1,
+    "METRO HALL CHILD CARE CENTRE": 3,
+    "METRO PIZZA AND CHICKEN": 3,
+    "Metro # 065": 1
+  },
+  "MONKEY SUSHI": {
+    "MONKEY SUSHI": 40,
+    "MONKEY SUSHI - HIGH PARK": 2,
+    "Monkey Sushi (Central Kitchen)": 1
+  },
+  "MR GREEK": {
+    "MR GREEK": 5,
+    "MR. GREEK": 7,
+    "MR. GREEK MEAT MARKET": 4,
+    "MR.GREEK": 2,
+    "Mr Greek": 4,
+    "Mr. Greek": 3,
+    "Mr. Greek FLOGA": 1
+  },
+  "MR SUB": {
+    "MR SUB": 8,
+    "MR. SUB": 22,
+    "MR. SUB & THAI EXPRESS": 2,
+    "MR.SUB": 1,
+    "Mr. Sub": 1
+  },
+  "NO FRILLS": {
+    "NO FRILLS": 12,
+    "NO FRILLS BUTCHER BY PAVAO MEATS & DELI": 1,
+    "No Frills": 2
+  },
+  "OSMOW S": {
+    "OSMOW'S": 53,
+    "OSMOW'S GRILL": 7,
+    "OSMOW'S SHAWARMA": 4,
+    "Osmow's": 2,
+    "Osmow's Restaurant": 1,
+    "Osmow's Shawarma": 1
+  },
+  "PAPA JOHN S": {
+    "PAPA JOHN'S": 8,
+    "PAPA JOHN'S PIZZA": 5,
+    "Papa John's": 2,
+    "Papa John's Pizza": 2
+  },
+  "PETRO CANADA": {
+    "PETRO CANADA": 11,
+    "PETRO CANADA/A&W": 2,
+    "PETRO CANADA/KFC": 3,
+    "Petro Canada": 1
+  },
+  "PI CO": {
+    "PI CO": 9,
+    "PI CO PIZZA": 2,
+    "PI CO PIZZA BAR": 1,
+    "PI CO.": 7,
+    "PI CO. PIZZA BAR": 1
+  },
+  "PITA LAND": {
+    "PITA LAND": 28,
+    "PITA LAND - HUMBER": 3,
+    "Pita Land": 7
+  },
+  "PITA LITE": {
+    "PITA LITE": 24,
+    "Pita Lite Shawarma": 2
+  },
+  "PIZZA HUT": {
+    "PIZZA HUT": 56,
+    "Pizza Hut": 9
+  },
+  "PIZZA NOVA": {
+    "PIZZA NOVA": 70,
+    "PIZZA NOVA #34": 2,
+    "PIZZA NOVA/NOVA RISTORANTE": 2,
+    "Pizza Nova": 9,
+    "PIZZA NOVA (FB 131 - 135)": 1
+  },
+  "PIZZA PIZZA": {
+    "PIZZA PIZZA": 169,
+    "PIZZA PIZZA (FERRY DOCK)": 1,
+    "PIZZA PIZZA/GRILL WORKS": 1,
+    "Pizza Pizza": 8,
+    "PIZZA PIZZA - HAWK'S NEST - C BUILDING": 1
+  },
+  "PIZZAIOLO": {
+    "PIZZAIOLO": 81,
+    "PIZZAIOLO GOURMET PIZZA": 2,
+    "Pizzaiolo": 1
+  },
+  "PIZZAVILLE": {
+    "PIZZAVILLE": 27,
+    "Pizzaville": 1
+  },
+  "POPEYES": {
+    "POPEYE'S": 10,
+    "POPEYE'S CHICKEN & BISCUITS": 2,
+    "POPEYE'S FAMOUS FRIED CHICKEN": 1,
+    "POPEYE'S LOUISIANA KITCHEN": 10,
+    "POPEYE'S SUPPLEMENTS": 2,
+    "POPEYES": 7,
+    "POPEYES CHICKEN AND SEAFOOD": 3,
+    "POPEYES LOUISIANA CHICKEN": 6,
+    "POPEYES LOUISIANA KITCHEN": 70,
+    "POPEYES SUPPLEMENTS": 1,
+    "Popeye's": 2,
+    "Popeye's Chicken": 2,
+    "Popeye's Louisiana Kitchen": 3,
+    "Popeyes": 11,
+    "Popeyes Louisiana Chicken": 3,
+    "Popeyes Louisiana Kitchen": 14
+  },
+  "PUMPERNICKEL S": {
+    "PUMPERNICKEL'S": 27
+  },
+  "RABBA FINE FOODS": {
+    "RABBA FINE FOODS": 30
+  },
+  "STARBUCKS": {
+    "STARBUCKS (RETAIL HUB)": 1,
+    "STARBUCKS": 107,
+    "STARBUCKS (LONGO'S)": 1,
+    "STARBUCKS 81991": 3,
+    "STARBUCKS COFFE": 1,
+    "STARBUCKS COFFEE": 39,
+    "STARBUCKS COFFEE #4095": 2,
+    "STARBUCKS COFFEE #4205": 2,
+    "STARBUCKS COFFEE CANADA": 3,
+    "STARBUCKS COFFEE CO": 6,
+    "STARBUCKS COFFEE CO (East Side)": 3,
+    "Starbucks": 7,
+    "Starbucks Coffee": 7,
+    "STARBUCKS COFFEE-CENTRAL SQUARE": 1
+  },
+  "REAL FRUIT BUBBLE TEA": {
+    "REAL FRUIT  BUBBLE TEA": 2,
+    "REAL FRUIT BUBBLE TEA": 45,
+    "Real Fruit Bubble Tea": 8
+  },
+  "ROLLTATION": {
+    "ROLLTATION": 24
+  },
+  "TIM HORTONS": {
+    "TIM HORTONS - THE BRIDGE": 1,
+    "TIM HORTONS": 545,
+    "TIM HORTONS - STC": 3,
+    "TIM HORTONS # 101634": 2,
+    "TIM HORTONS #2707": 3,
+    "TIM HORTONS #2876": 1,
+    "TIM HORTONS #4970": 2,
+    "TIM HORTONS (Racetrack)": 1,
+    "TIM HORTONS - BAY CONCOURSE": 3,
+    "TIM HORTONS - SECOND FLOOR": 1,
+    "TIM HORTONS - VIA CONCOURSE": 2,
+    "TIM HORTONS - YORK CONCOURSE": 2,
+    "Tim  Hortons": 2,
+    "Tim Hortons": 34,
+    "TIM HORTONS # 103196": 1,
+    "TIM HORTONS (Inside Mall)": 1
+  },
+  "SECOND CUP": {
+    "SECOND CUP": 42,
+    "SECOND CUP - CHOCOLATO": 2,
+    "SECOND CUP - ST. MICHAEL'S HOSPITAL GR. FL": 1,
+    "SECOND CUP CAFE": 5,
+    "SECOND CUP CAF\u00c9": 1,
+    "SECOND CUP COFEE & CO.": 3,
+    "SECOND CUP COFFEE": 2,
+    "SECOND CUP COFFEE CO": 2,
+    "SECOND CUP COFFEE CO.": 3,
+    "SECOND CUP/ CHOCOLATO": 3,
+    "Second Cup": 4
+  },
+  "SHAWARMA ROYALE": {
+    "SHAWARMA  ROYALE": 2,
+    "SHAWARMA ROYALE": 12,
+    "SHAWARMA ROYALE / CHOCO LATTE": 7,
+    "Shawarma Royale": 5
+  },
+  "SHELL": {
+    "SHELL": 18,
+    "SHELL SELECT": 4,
+    "Shell Canada": 1,
+    "Shell Select": 2,
+    "SHELL SELECT/FRESHII": 1,
+    "Shell Gas Station": 1
+  },
+  "SHOPPERS DRUG MART": {
+    "SHOPPERS DRUG MART": 42,
+    "SHOPPERS DRUG MART #813": 1,
+    "Shoppers Drug Mart": 8
+  },
+  "ST LOUIS BAR AND GRILL": {
+    "ST. LOUIS BAR & GRILL": 11,
+    "ST. LOUIS BAR AND GRILL": 8,
+    "St. Louis Bar & Grill": 3
+  },
+  "SUBWAY": {
+    "SUBWAY": 265,
+    "SUBWAY (FERRY DOCK)": 1,
+    "SUBWAY ACADEMY 2": 2,
+    "SUBWAY ACADEMY ONE - STUDENT NUTRITION PROGRAM": 2,
+    "SUBWAY SANDWICHES": 12,
+    "SUBWAY SANDWICHES AND SALADS": 11,
+    "SUBWAY SANDWICHES RESTAURANT": 2,
+    "Subway": 17,
+    "subway": 1
+  },
+  "SUNSET GRILL": {
+    "SUNSET GRILL": 30,
+    "Sunset Grill": 1
+  },
+  "SWISS CHALET": {
+    "SWISS CHALET": 24,
+    "SWISS CHALET / HARVEY'S": 7,
+    "SWISS CHALET EXPRESS": 2,
+    "SWISS CHALET ROTISSERIE & GRILL": 5,
+    "SWISS CHALET ROTISSERIE &GRILL": 2,
+    "SWISS CHALET/HARVEY'S": 3,
+    "Swiss Chalet": 4,
+    "SWISS CHALET & HARVEY'S": 1
+  },
+  "TACO BELL": {
+    "TACO BELL": 19,
+    "Taco Bell": 1,
+    "TACO  BELL": 1
+  },
+  "TAHINI S": {
+    "TAHINI'S": 22,
+    "TAHINI'S RESTAURANT": 3
+  },
+  "THE BURGER S PRIEST": {
+    "THE BURGER'S PRIEST": 23
+  },
+  "WENDY S": {
+    "WENDY'S": 50,
+    "WENDY'S 6758": 2,
+    "Wendy's": 1
+  },
+  "WILD WING": {
+    "WILD WING": 28,
+    "WILD WING EXPRESS": 1
+  }
+}
